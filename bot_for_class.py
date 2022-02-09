@@ -1,6 +1,6 @@
 """Place in root of Game of Greed Project,
 at same level as pyproject.toml
-""" 
+"""
 
 from abc import ABC, abstractmethod
 import builtins
